@@ -1,0 +1,10 @@
+.generic-content{
+    p{
+        line-height: 1.65;
+    }
+
+    @mixin atSmall{
+        font-size: 1.125rem;
+    }
+    
+}

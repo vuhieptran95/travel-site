@@ -7,3 +7,12 @@ img{
   max-width: 100%;
   height: auto;
 }
+
+*{
+  box-sizing: border-box;
+}
+
+a{
+  font-weight: 700;
+  color: $mainOrange;
+}
